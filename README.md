@@ -1,9 +1,12 @@
 ## Ola! sou Roberto Cunha
 
 ### O que estou estudando
-- Python
-- Inglês
+- NestJs
+- Angular
+- React
+- Ionic 
 
 ### Projeto atual
 - LoteriaCaixa
 - HotReviews
+- Chicken-Shop
